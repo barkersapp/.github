@@ -1,3 +1,3 @@
 # Barkers Software
 
-The official repository for all Barkers Software projects.
+The official home for the source code of all Barkers Software projects.
